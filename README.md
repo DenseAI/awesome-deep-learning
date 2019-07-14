@@ -67,5 +67,11 @@
 - [SeNet](http://www.sohu.com/a/161633191_465975)
 	- [SeNet-Caffe](https://github.com/hujie-frank/SENet)
 
-
+#### 1.4 优化算法
+- [随机梯度下降SGD](http://zh.d2l.ai/chapter_optimization/gd-sgd.html)
+- [动量法](http://zh.d2l.ai/chapter_optimization/momentum.html)
+- [AdaGrad算法](http://zh.d2l.ai/chapter_optimization/adagrad.html)
+- [RMSProp算法](http://zh.d2l.ai/chapter_optimization/rmsprop.html)
+- [AdaDelta算法](http://zh.d2l.ai/chapter_optimization/adadelta.html)
+- [Adam算法](http://zh.d2l.ai/chapter_optimization/adam.html)
 
