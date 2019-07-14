@@ -1,8 +1,17 @@
 
-# awesome-medical-machine-learning
+# awesome-deep-learning
 
 学习过程中，收集的深度学习资料，在不断更新中。。。 
 如果您有好的学习资料，请联系我们，QQ群：791193818
+
+## 目录
+- [1 深度学习基础知识](https://github.com/DenseAI/awesome-deep-learning#1-深度学习基础知识)
+	- [1.1 数学基础](https://github.com/DenseAI/awesome-deep-learning#11-数学基础)
+	- [1.2 网络元素](https://github.com/DenseAI/awesome-deep-learning#12-网络元素)
+	- [1.3 网络结构](https://github.com/DenseAI/awesome-deep-learning#13-网络结构)
+	- [1.4 优化算法](https://github.com/DenseAI/awesome-deep-learning#14-优化算法)
+	- [1.5 深度学习例子](https://github.com/DenseAI/awesome-deep-learning#15-深度学习例子)
+- [2 目标识别](https://github.com/DenseAI/awesome-deep-learning#1-深度学习基础知识)	
 
 ## 1 深度学习基础知识 
 
@@ -19,7 +28,6 @@
 - [卷积神经网络(CNN)反向传播算法](https://www.cnblogs.com/pinard/p/6494810.html)
 - [循环神经网络(RNN)模型与前向反向传播算法](https://www.cnblogs.com/pinard/p/6509630.html)
 - [LSTM模型与前向反向传播算法](https://www.cnblogs.com/pinard/p/6519110.html)
-
 
 
 #### 1.2 网络元素
@@ -89,4 +97,7 @@
 - [使用CNN进行MNIST数字分类](https://github.com/keras-team/keras/blob/master/examples/mnist_cnn.py)
 - [使用CNN进行CIFAR10图像分类](https://github.com/keras-team/keras/blob/master/examples/cifar10_cnn.py)
 - [使用ResNet进行CIFAR10图像分类](https://github.com/keras-team/keras/blob/master/examples/cifar10_resnet.py)
+
+
+## 2 目标识别 
 
