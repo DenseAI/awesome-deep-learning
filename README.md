@@ -155,3 +155,39 @@
 - [Actor-Critic](https://www.cnblogs.com/pinard/p/10272023.html)
 - [A3C](https://www.cnblogs.com/pinard/p/10334127.html)
 - [深度确定性策略梯度(DDPG)](https://www.cnblogs.com/pinard/p/10345762.html)
+
+#### 3.2 强化学习与Python
+上面3.2 强化学习基础，包含很多公式，可能看起来有点吃力，下面是莫烦的强化学习知识点，可能稍微好一点，看起来不这么费劲。
+- [Q-learning]
+	- [什么是 Q Leaning](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/2-1-A-q-learning/)
+	- [小例子](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/2-1-general-rl/)
+	- [Q-learning 算法更新](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/2-2-tabular-q1/)
+	- [Q-learning 思维决策](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/2-3-tabular-q2/)
+- [Sarsa]
+	- [什么是 Sarsa](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/3-1-A-sarsa/)
+	- [Sarsa 算法更新](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/3-1-tabular-sarsa1/)
+	- [Sarsa 思维决策](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/3-2-tabular-sarsa2/)
+	- [什么是 Sarsa(lambda)](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/3-3-A-sarsa-lambda/)
+	- [Sarsa-lambda](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/3-3-tabular-sarsa-lambda/)
+- [Deep Q Network]
+	- [什么是 DQN ](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/4-1-A-DQN/)
+	- [DQN 算法更新 (Tensorflow) ](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/4-1-DQN1/)
+	- [DQN 神经网络 (Tensorflow) ](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/4-2-DQN2/)
+	- [DQN 思维决策 (Tensorflow) ](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/4-3-DQN3/)
+	- [OpenAI gym 环境库 ](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/4-4-gym/)
+	- [Double DQN (Tensorflow) ](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/4-5-double_DQN/)
+	- [Prioritized Experience Replay (DQN) (Tensorflow) ](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/4-6-prioritized-replay/)
+	- [Dueling DQN (Tensorflow) ](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/4-7-dueling-DQN/)
+- [Policy Gradient]
+	- [什么是 Policy Gradients ](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/5-1-A-PG/)
+	- [Policy Gradients 算法更新 (Tensorflow) ](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/5-1-policy-gradient-softmax1/)
+	- [Policy Gradients 思维决策 (Tensorflow) ](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/5-2-policy-gradient-softmax2/)
+- [Actor Critic]
+	- [什么是 Actor Critic ](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/6-1-A-AC/)
+	- [Actor Critic (Tensorflow)](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/6-1-actor-critic/)
+	- [什么是 Deep Deterministic Policy Gradient (DDPG)](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/6-2-A-DDPG/)
+	- [Deep Deterministic Policy Gradient (DDPG) (Tensorflow)](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/6-2-DDPG/)
+	- [什么是 Asynchronous Advantage Actor-Critic (A3C)](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/6-3-A1-A3C/)
+	- [Asynchronous Advantage Actor-Critic (A3C) (Tensorflow)](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/6-3-A3C/)
+	- [Distributed Proximal Policy Optimization (DPPO) (Tensorflow)](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/6-4-DPPO/)
+	
