@@ -102,6 +102,7 @@
 ## 2 目标检测
 从目标检查开始，逐渐结合论文、代码、应用等，难度慢慢增大了
 #### 2.1 综述
+中国国防科技大学、芬兰奥卢大学、澳大利亚悉尼大学、中国香港中文大学和加拿大滑铁卢大学等人推出一篇最新目标检测综述，详细阐述了当前目标检测最新成就和关键技术。
 - [目标检测综述](https://blog.csdn.net/qq_35451572/article/details/82752261)
 	- [Deep Learning for Generic Object Detection: A Survey](https://arxiv.org/pdf/1809.02165.pdf)
 	
@@ -111,4 +112,7 @@
 - [微调](http://zh.d2l.ai/chapter_computer-vision/fine-tuning.html)
 - [目标检测和边界框](http://zh.d2l.ai/chapter_computer-vision/bounding-box.html)
 - [锚框](http://zh.d2l.ai/chapter_computer-vision/anchor.html)
+
+#### 2.3 目标检测框架
+- [一文读懂目标检测](https://cloud.tencent.com/developer/news/281788)
 
