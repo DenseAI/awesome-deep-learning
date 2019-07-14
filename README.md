@@ -12,7 +12,10 @@
 	- [1.4 优化算法](https://github.com/DenseAI/awesome-deep-learning#14-优化算法)
 	- [1.5 深度学习例子](https://github.com/DenseAI/awesome-deep-learning#15-深度学习例子)
 - [2 目标检测](https://github.com/DenseAI/awesome-deep-learning#2-目标识别)	
-
+	- [2.1 综述](https://github.com/DenseAI/awesome-deep-learning#21-综述)
+	- [2.2 计算机视觉基础](https://github.com/DenseAI/awesome-deep-learning#22-计算机视觉基础)
+	- [2.3 目标检测框架](https://github.com/DenseAI/awesome-deep-learning#23-目标检测框架)
+	
 ## 1 深度学习基础知识 
 
 #### 1.1 数学基础
