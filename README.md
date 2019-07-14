@@ -15,6 +15,10 @@
 	- [2.1 综述](https://github.com/DenseAI/awesome-deep-learning#21-综述)
 	- [2.2 计算机视觉基础](https://github.com/DenseAI/awesome-deep-learning#22-计算机视觉基础)
 	- [2.3 目标检测框架](https://github.com/DenseAI/awesome-deep-learning#23-目标检测框架)
+- [3 强化学习](https://github.com/DenseAI/awesome-deep-learning#3-强化学习)	
+	- [3.1 基础知识](https://github.com/DenseAI/awesome-deep-learning#31-基础知识)
+	- [3.2 强化学习基础](https://github.com/DenseAI/awesome-deep-learning#32-强化学习基础)
+	- [3.3 强化学习与Python](https://github.com/DenseAI/awesome-deep-learning#33-强化学习与python)
 	
 ## 1 深度学习基础知识 
 
@@ -156,7 +160,7 @@
 - [A3C](https://www.cnblogs.com/pinard/p/10334127.html)
 - [深度确定性策略梯度(DDPG)](https://www.cnblogs.com/pinard/p/10345762.html)
 
-#### 3.2 强化学习与Python
+#### 3.3 强化学习与Python
 上面3.2 强化学习基础，包含很多公式，可能看起来有点吃力，下面是莫烦的强化学习知识点，可能稍微好一点，看起来不这么费劲。
 - [Q-learning]
 	- [什么是 Q Leaning](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/2-1-A-q-learning/)
