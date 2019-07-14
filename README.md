@@ -1,7 +1,7 @@
 
 # awesome-medical-machine-learning
 
-收集深度学习相关学习资料，在不断更新中。如果您有好的学习资料，请联系我们，QQ群：791193818。
+收集深度学习相关学习资料，在不断更新中。如果您有好的学习资料，请联系我们，QQ群：791193818
 
 ## 深度学习基础知识 
 
@@ -22,7 +22,8 @@
 
 
 #### 网络结构
-- [卷积神经网络CNN]
+- [卷积神经网络CNN](https://www.jianshu.com/p/70b6f5653ac6)
+-- [二维卷积层](http://zh.d2l.ai/chapter_convolutional-neural-networks/conv-layer.html)
 - [循环神经网络RNN]
 
 
