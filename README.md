@@ -134,3 +134,24 @@
 - **[YOLO v3]** YOLOv3: An Incremental Improvement | **[arXiv' 18]** |[`[pdf]`](https://pjreddie.com/media/files/papers/YOLOv3.pdf) [`[official code - c]`](https://pjreddie.com/darknet/yolo/) [`[unofficial code - pytorch]`](https://github.com/ayooshkathuria/pytorch-yolo-v3) [`[unofficial code - pytorch]`](https://github.com/eriklindernoren/PyTorch-YOLOv3) [`[unofficial code - keras]`](https://github.com/qqwweee/keras-yolo3) [`[unofficial code - tensorflow]`](https://github.com/mystic123/tensorflow-yolo-v3)
 - **[M2Det]** M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network | **[AAAI' 19]** |[`[pdf]`](https://arxiv.org/pdf/1811.04533.pdf) [`[official code - pytorch]`](https://github.com/qijiezhao/M2Det)
 - [更多细节](https://github.com/hoya012/deep_learning_object_detection)
+
+
+
+## 3 强化学习
+
+#### 3.1 基础知识
+- [模型基础](https://www.cnblogs.com/pinard/p/9385570.html)
+- [马尔科夫决策过程(MDP)](https://www.cnblogs.com/pinard/p/9426283.html)
+- [用动态规划（DP）求解](https://www.cnblogs.com/pinard/p/9463815.html)
+- [用蒙特卡罗法（MC）求解](https://www.cnblogs.com/pinard/p/9492980.html)
+- [基于模拟的搜索与蒙特卡罗树搜索(MCTS)](https://www.cnblogs.com/pinard/p/10470571.html)
+
+#### 3.2 强化学习基础
+- [时序差分离线控制算法Q-Learning](https://www.cnblogs.com/pinard/p/9669263.html)
+- [时序差分在线控制算法SARSA](https://www.cnblogs.com/pinard/p/9614290.html)
+- [价值函数的近似表示与Deep Q-Learning](https://www.cnblogs.com/pinard/p/9714655.html)
+- [Deep Q-Learning进阶之Nature DQN](https://www.cnblogs.com/pinard/p/9756075.html)
+- [策略梯度(Policy Gradient)](https://www.cnblogs.com/pinard/p/10137696.html)
+- [Actor-Critic](https://www.cnblogs.com/pinard/p/10272023.html)
+- [A3C](https://www.cnblogs.com/pinard/p/10334127.html)
+- [深度确定性策略梯度(DDPG)](https://www.cnblogs.com/pinard/p/10345762.html)
