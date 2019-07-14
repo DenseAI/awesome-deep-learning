@@ -23,7 +23,7 @@
 
 #### 网络结构
 - [卷积神经网络CNN](https://www.jianshu.com/p/70b6f5653ac6)
--- [二维卷积层](http://zh.d2l.ai/chapter_convolutional-neural-networks/conv-layer.html)
+	- [二维卷积层](http://zh.d2l.ai/chapter_convolutional-neural-networks/conv-layer.html)
 - [循环神经网络RNN]
 
 
