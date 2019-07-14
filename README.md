@@ -114,5 +114,8 @@
 - [锚框](http://zh.d2l.ai/chapter_computer-vision/anchor.html)
 
 #### 2.3 目标检测框架
+<p align="center">
+  <img width="1000" src="/assets/deep_learning_object_detection_history.PNG" "Example of object detection.">
+</p>
 - [一文读懂目标检测](https://cloud.tencent.com/developer/news/281788)
 
