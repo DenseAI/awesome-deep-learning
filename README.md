@@ -22,7 +22,7 @@
 
 
 
-#### 1.2 网络结构
+#### 1.2 网络元素
 - [多层感知机MLP](http://zh.d2l.ai/chapter_deep-learning-basics/mlp.html)
 
 卷积神经网络，学习重点：核、步幅、填充、池化
@@ -39,5 +39,33 @@
 	- [长短期记忆（LSTM）](http://zh.d2l.ai/chapter_recurrent-neural-networks/lstm.html)
 	- [门控循环单元（GRU）](http://zh.d2l.ai/chapter_recurrent-neural-networks/gru.html)
 	- [双向循环神经网络](http://zh.d2l.ai/chapter_recurrent-neural-networks/bi-rnn.html)
+	
+#### 1.3 网络结构
+
+网络结构，学习重点：VGG、GooLeNet、ResNet、DPN
+
+- [LeNet](https://blog.csdn.net/chenyuping333/article/details/82177677)
+	- [LeNet-Keras](https://github.com/DustinAlandzes/mnist-lenet-keras/blob/master/lenet.py)
+- [AlexNet](https://blog.csdn.net/chenyuping333/article/details/82178335)
+	- [AlexNet-Keras](https://github.com/uestcsongtaoli/AlexNet/blob/master/model.py)
+- [VGG](https://blog.csdn.net/chenyuping333/article/details/82250931)
+	- [VGG16-Keras](https://github.com/keras-team/keras-applications/blob/master/keras_applications/vgg16.py)
+	- [VGG19-Keras](https://github.com/keras-team/keras-applications/blob/master/keras_applications/vgg19.py)
+- [GoogLeNet](https://blog.csdn.net/chenyuping333/article/details/82343608)
+	- [GoogLeNet-Keras](https://github.com/dingchenwei/googLeNet/blob/master/googLeNet.py)
+	- [inception_resnet_v2-Keras](https://github.com/keras-team/keras-applications/blob/master/keras_applications/inception_resnet_v2.py)
+	- [inception_v3-Keras](https://github.com/keras-team/keras-applications/blob/master/keras_applications/inception_v3.py)
+- [ResNet](https://blog.csdn.net/chenyuping333/article/details/82344334)
+	- [resnet-Keras](https://github.com/keras-team/keras-applications/blob/master/keras_applications/resnet.py)
+	- [resnet_v2-Keras](https://github.com/keras-team/keras-applications/blob/master/keras_applications/resnet_v2.py)
+- [DenseNet](https://blog.csdn.net/chenyuping333/article/details/82414542)
+	- [DenseNet-Keras](https://github.com/keras-team/keras-applications/blob/master/keras_applications/densenet.py)
+- [ResNeXt](https://blog.csdn.net/chenyuping333/article/details/82453632)
+	- [ResNext-Keras](https://github.com/keras-team/keras-applications/blob/master/keras_applications/resnext.py)
+- [DPN Dual Path Net](https://blog.csdn.net/chenyuping333/article/details/82453965)
+	- [DPN-Keras](https://github.com/titu1994/Keras-DualPathNetworks/blob/master/dual_path_network.py)
+- [SeNet](http://www.sohu.com/a/161633191_465975)
+	- [SeNet-Caffe](https://github.com/hujie-frank/SENet)
+
 
 
