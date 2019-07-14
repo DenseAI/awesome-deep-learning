@@ -68,10 +68,25 @@
 	- [SeNet-Caffe](https://github.com/hujie-frank/SENet)
 
 #### 1.4 优化算法
+
+优化算法，学习重点：SGD、AdaGrad、RMSProp、Adam
+
 - [随机梯度下降SGD](http://zh.d2l.ai/chapter_optimization/gd-sgd.html)
 - [动量法](http://zh.d2l.ai/chapter_optimization/momentum.html)
 - [AdaGrad算法](http://zh.d2l.ai/chapter_optimization/adagrad.html)
 - [RMSProp算法](http://zh.d2l.ai/chapter_optimization/rmsprop.html)
 - [AdaDelta算法](http://zh.d2l.ai/chapter_optimization/adadelta.html)
 - [Adam算法](http://zh.d2l.ai/chapter_optimization/adam.html)
+
+#### 1.5 深度学习例子
+
+使用Keras进行文本分类、数字分类、图像分类，了解基本深度学习使用场景
+
+- [使用卷积神经网络进行文本分类](https://github.com/keras-team/keras/blob/master/examples/imdb_cnn.py)
+- [使用LSTM进行文本分类](https://github.com/keras-team/keras/blob/master/examples/imdb_lstm.py)
+- [使用双向LSTM进行文本分类](https://github.com/keras-team/keras/blob/master/examples/imdb_bidirectional_lstm.py)
+- [使用CNN+LSTM进行文本分类](https://github.com/keras-team/keras/blob/master/examples/imdb_cnn_lstm.py)
+- [使用CNN进行MNIST数字分类](https://github.com/keras-team/keras/blob/master/examples/mnist_cnn.py)
+- [使用CNN进行CIFAR10图像分类](https://github.com/keras-team/keras/blob/master/examples/cifar10_cnn.py)
+- [使用ResNet进行CIFAR10图像分类](https://github.com/keras-team/keras/blob/master/examples/cifar10_resnet.py)
 
