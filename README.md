@@ -115,7 +115,7 @@
 
 #### 2.3 目标检测框架
 <p align="center">
-  <img width="1000" src="/assets/deep_learning_object_detection_history.PNG" "Example of object detection.">
+  <img width="1000" src="/assets/deep_learning_object_detection_history.png" "Example of object detection.">
 </p>
 - [一文读懂目标检测](https://cloud.tencent.com/developer/news/281788)
 
