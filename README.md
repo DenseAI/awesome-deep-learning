@@ -1,7 +1,7 @@
 
 # awesome-deep-learning
 
-学习过程中，收集的深度学习资料，在不断更新中。。。 
+学习过程中，收集的深度学习资料，在不断更新中。 
 如果您有好的学习资料，请联系我们，QQ群：791193818
 
 ## 目录
@@ -11,7 +11,7 @@
 	- [1.3 网络结构](https://github.com/DenseAI/awesome-deep-learning#13-网络结构)
 	- [1.4 优化算法](https://github.com/DenseAI/awesome-deep-learning#14-优化算法)
 	- [1.5 深度学习例子](https://github.com/DenseAI/awesome-deep-learning#15-深度学习例子)
-- [2 目标识别](https://github.com/DenseAI/awesome-deep-learning#1-深度学习基础知识)	
+- [2 目标检测](https://github.com/DenseAI/awesome-deep-learning#2-目标识别)	
 
 ## 1 深度学习基础知识 
 
@@ -99,5 +99,16 @@
 - [使用ResNet进行CIFAR10图像分类](https://github.com/keras-team/keras/blob/master/examples/cifar10_resnet.py)
 
 
-## 2 目标识别 
+## 2 目标检测
+从目标检查开始，逐渐结合论文、代码、应用等，难度慢慢增大了
+#### 2.1 综述
+- [目标检测综述](https://blog.csdn.net/qq_35451572/article/details/82752261)
+	- [Deep Learning for Generic Object Detection: A Survey](https://arxiv.org/pdf/1809.02165.pdf)
+	
+#### 2.2 计算机视觉基础
+学习重点：图像增广、边界框、锚框、交并比IoU、非极大值抑制（NMS）
+- [图像增广](http://zh.d2l.ai/chapter_computer-vision/image-augmentation.html)
+- [微调](http://zh.d2l.ai/chapter_computer-vision/fine-tuning.html)
+- [目标检测和边界框](http://zh.d2l.ai/chapter_computer-vision/bounding-box.html)
+- [锚框](http://zh.d2l.ai/chapter_computer-vision/anchor.html)
 
