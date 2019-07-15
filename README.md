@@ -19,6 +19,7 @@
 	- [3.1 基础知识](https://github.com/DenseAI/awesome-deep-learning#31-基础知识)
 	- [3.2 强化学习基础](https://github.com/DenseAI/awesome-deep-learning#32-强化学习基础)
 	- [3.3 强化学习与Python](https://github.com/DenseAI/awesome-deep-learning#33-强化学习与python)
+	- [3.4 AlphaGo Zero](https://github.com/DenseAI/awesome-deep-learning#33-强化学习与python)
 	
 ## 1 深度学习基础知识 
 
@@ -194,4 +195,8 @@
 	- [什么是 Asynchronous Advantage Actor-Critic (A3C)](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/6-3-A1-A3C/)
 	- [Asynchronous Advantage Actor-Critic (A3C) (Tensorflow)](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/6-3-A3C/)
 	- [Distributed Proximal Policy Optimization (DPPO) (Tensorflow)](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/6-4-DPPO/)
-	
+
+#### 3.4 AlphaGo Zero	
+- [AlphaGo Zero 详解](https://blog.csdn.net/windowsyun/article/details/88701321)
+- [蒙特卡洛树搜索（MCTS）代码详解](https://blog.csdn.net/windowsyun/article/details/88770799)
+- [AlphaZero五子棋网络模型](https://blog.csdn.net/windowsyun/article/details/88855277)
