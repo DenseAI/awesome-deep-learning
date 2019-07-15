@@ -19,7 +19,7 @@
 	- [3.1 基础知识](https://github.com/DenseAI/awesome-deep-learning#31-基础知识)
 	- [3.2 强化学习基础](https://github.com/DenseAI/awesome-deep-learning#32-强化学习基础)
 	- [3.3 强化学习与Python](https://github.com/DenseAI/awesome-deep-learning#33-强化学习与python)
-	- [3.4 AlphaGo Zero](https://github.com/DenseAI/awesome-deep-learning#33-强化学习与python)
+	- [3.4 AlphaGo Zero](https://github.com/DenseAI/awesome-deep-learning#34-alphago-zero)
 	
 ## 1 深度学习基础知识 
 
