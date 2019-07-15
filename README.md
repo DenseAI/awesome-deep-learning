@@ -20,6 +20,9 @@
 	- [3.2 强化学习基础](https://github.com/DenseAI/awesome-deep-learning#32-强化学习基础)
 	- [3.3 强化学习与Python](https://github.com/DenseAI/awesome-deep-learning#33-强化学习与python)
 	- [3.4 AlphaGo Zero](https://github.com/DenseAI/awesome-deep-learning#34-alphago-zero)
+- [3 生成对抗网络（GAN）](https://github.com/DenseAI/awesome-deep-learning#3-强化学习)	
+	- [4.1 综述](https://github.com/DenseAI/awesome-deep-learning#31-基础知识)
+	- [4.2 各种类型的GAN](https://github.com/DenseAI/awesome-deep-learning#32-强化学习基础)
 	
 ## 1 深度学习基础知识 
 
@@ -200,3 +203,22 @@
 - [AlphaGo Zero 详解](https://blog.csdn.net/windowsyun/article/details/88701321)
 - [蒙特卡洛树搜索（MCTS）代码详解](https://blog.csdn.net/windowsyun/article/details/88770799)
 - [AlphaZero五子棋网络模型](https://blog.csdn.net/windowsyun/article/details/88855277)
+
+
+## 4 生成对抗网络（GAN）
+#### 4.1 综述
+- [万字综述之生成对抗网络（GAN）](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247495668&idx=1&sn=e7e959b2bdd7b2763b9207ccb80fa6bc&chksm=96ea3074a19db96208a51d26f7b5b4ef9c3a37a7799ec270becc77203de4294235041ede7206&token=2004841509&lang=zh_CN#rd)
+	- [How Generative Adversarial Networks and Their Variants Work: An Overview](https://arxiv.org/abs/1711.05914)
+	- [令人拍案叫绝的Wasserstein GAN](https://zhuanlan.zhihu.com/p/25071913)
+
+#### 4.2 各种类型的GAN
+- [Generative Adversarial Network](https://github.com/eriklindernoren/Keras-GAN#gan)
+- [Deep Convolutional GAN](https://github.com/eriklindernoren/Keras-GAN#dcgan)
+- [Auxiliary Classifier GAN](https://github.com/eriklindernoren/Keras-GAN#ac-gan)
+- [Wasserstein GAN](https://github.com/eriklindernoren/Keras-GAN#wgan)
+- [Wasserstein GAN GP](https://github.com/eriklindernoren/Keras-GAN#wgan-gp)
+- [CycleGAN](https://github.com/eriklindernoren/Keras-GAN#cyclegan)
+- [Pix2Pix](https://github.com/eriklindernoren/Keras-GAN#pix2pix)
+- [InfoGAN](https://github.com/eriklindernoren/Keras-GAN#infogan)
+
+
