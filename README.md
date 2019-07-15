@@ -20,9 +20,9 @@
 	- [3.2 强化学习基础](https://github.com/DenseAI/awesome-deep-learning#32-强化学习基础)
 	- [3.3 强化学习与Python](https://github.com/DenseAI/awesome-deep-learning#33-强化学习与python)
 	- [3.4 AlphaGo Zero](https://github.com/DenseAI/awesome-deep-learning#34-alphago-zero)
-- [3 生成对抗网络（GAN）](https://github.com/DenseAI/awesome-deep-learning#3-强化学习)	
-	- [4.1 综述](https://github.com/DenseAI/awesome-deep-learning#31-基础知识)
-	- [4.2 各种类型的GAN](https://github.com/DenseAI/awesome-deep-learning#32-强化学习基础)
+- [4 生成对抗网络（GAN）](https://github.com/DenseAI/awesome-deep-learning#4-生成对抗网络gan)	
+	- [4.1 综述](https://github.com/DenseAI/awesome-deep-learning#41-综述)
+	- [4.2 各种类型的GAN](https://github.com/DenseAI/awesome-deep-learning#42-各种类型的gan)
 	
 ## 1 深度学习基础知识 
 
