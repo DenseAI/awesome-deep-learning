@@ -15,6 +15,7 @@
 	- [2.1 综述](https://github.com/DenseAI/awesome-deep-learning#21-综述)
 	- [2.2 计算机视觉基础](https://github.com/DenseAI/awesome-deep-learning#22-计算机视觉基础)
 	- [2.3 目标检测框架](https://github.com/DenseAI/awesome-deep-learning#23-目标检测框架)
+	- [2.4 代码详解](https://github.com/DenseAI/awesome-deep-learning#23-目标检测框架)
 - [3 强化学习](https://github.com/DenseAI/awesome-deep-learning#3-强化学习)	
 	- [3.1 基础知识](https://github.com/DenseAI/awesome-deep-learning#31-基础知识)
 	- [3.2 强化学习基础](https://github.com/DenseAI/awesome-deep-learning#32-强化学习基础)
@@ -142,8 +143,15 @@
 - **[YOLO v3]** YOLOv3: An Incremental Improvement | **[arXiv' 18]** |[`[pdf]`](https://pjreddie.com/media/files/papers/YOLOv3.pdf) [`[official code - c]`](https://pjreddie.com/darknet/yolo/) [`[unofficial code - pytorch]`](https://github.com/ayooshkathuria/pytorch-yolo-v3) [`[unofficial code - pytorch]`](https://github.com/eriklindernoren/PyTorch-YOLOv3) [`[unofficial code - keras]`](https://github.com/qqwweee/keras-yolo3) [`[unofficial code - tensorflow]`](https://github.com/mystic123/tensorflow-yolo-v3)
 - **[M2Det]** M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network | **[AAAI' 19]** |[`[pdf]`](https://arxiv.org/pdf/1811.04533.pdf) [`[official code - pytorch]`](https://github.com/qijiezhao/M2Det)
 - [更多细节](https://github.com/hoya012/deep_learning_object_detection)
-
-
+#### 2.4 代码详解
+- [YOLO v3]
+	- [探索 YOLO v3 源码 - 第1篇 训练](https://mp.weixin.qq.com/s/T9LshbXoervdJDBuP564dQ)
+	- [探索 YOLO v3 源码 - 第2篇 模型](https://mp.weixin.qq.com/s/N79S9Qf1OgKsQ0VU5QvuHg)
+	- [探索 YOLO v3 源码 - 第3篇 网络](https://mp.weixin.qq.com/s/hC4P7iRGv5JSvvPe-ri_8g)
+	- [探索 YOLO v3 源码 - 第4篇 真值](https://mp.weixin.qq.com/s/5Sj7QadfVvx-5W9Cr4d3Yw)
+	- [探索 YOLO v3 源码 - 第5篇 Loss](https://mp.weixin.qq.com/s/4L9E4WGSh0hzlD303036bQ)
+	- [探索 YOLO v3 源码 - 完结篇 预测](https://mp.weixin.qq.com/s/J1ddmUvT_F2HcljLtg_uWQ)
+	
 
 ## 3 强化学习
 
