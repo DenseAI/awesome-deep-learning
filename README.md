@@ -118,6 +118,7 @@
 - [目标检测综述](https://blog.csdn.net/qq_35451572/article/details/82752261)
 	- [Deep Learning for Generic Object Detection: A Survey](https://arxiv.org/pdf/1809.02165.pdf)
 - [论文笔记-2019-Object Detection in 20 Years: A Survey](https://blog.csdn.net/clover_my/article/details/92794719)
+	- [Object Detection in 20 Years: A Survey](https://arxiv.org/abs/1905.05055v2)
 	
 #### 2.2 计算机视觉基础
 学习重点：图像增广、边界框、锚框、交并比IoU、非极大值抑制（NMS）
