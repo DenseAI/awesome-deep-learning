@@ -156,7 +156,10 @@
 	- [探索 YOLO v3 源码 - 第5篇 Loss](https://mp.weixin.qq.com/s/4L9E4WGSh0hzlD303036bQ)
 	- [探索 YOLO v3 源码 - 完结篇 预测](https://mp.weixin.qq.com/s/J1ddmUvT_F2HcljLtg_uWQ)
 - [目标检测算法综述之FPN优化篇](https://zhuanlan.zhihu.com/p/63047557)
-	
+- [FaceNet源码解读1](https://blog.csdn.net/u013044310/article/details/79556099)
+- [FaceNet源码解读2](https://blog.csdn.net/u013044310/article/details/80481642)
+- [格灵深瞳：人脸识别最新进展以及工业级大规模人脸识别实践探讨](https://blog.csdn.net/guleileo/article/details/80863579)	
+- [insightface](https://github.com/deepinsight/insightface)	
 
 ## 3 强化学习
 
