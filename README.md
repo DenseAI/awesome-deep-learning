@@ -117,6 +117,7 @@
 中国国防科技大学、芬兰奥卢大学、澳大利亚悉尼大学、中国香港中文大学和加拿大滑铁卢大学等人推出一篇最新目标检测综述，详细阐述了当前目标检测最新成就和关键技术。
 - [目标检测综述](https://blog.csdn.net/qq_35451572/article/details/82752261)
 	- [Deep Learning for Generic Object Detection: A Survey](https://arxiv.org/pdf/1809.02165.pdf)
+- [论文笔记-2019-Object Detection in 20 Years: A Survey](https://blog.csdn.net/clover_my/article/details/92794719)
 	
 #### 2.2 计算机视觉基础
 学习重点：图像增广、边界框、锚框、交并比IoU、非极大值抑制（NMS）
