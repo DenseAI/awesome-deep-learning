@@ -159,6 +159,7 @@
 - [FaceNet源码解读1](https://blog.csdn.net/u013044310/article/details/79556099)
 - [FaceNet源码解读2](https://blog.csdn.net/u013044310/article/details/80481642)
 - [格灵深瞳：人脸识别最新进展以及工业级大规模人脸识别实践探讨](https://blog.csdn.net/guleileo/article/details/80863579)	
+- [DeepID+DeepID2+DeepID3人脸识别算法总结](https://blog.csdn.net/weixin_42546496/article/details/88537882)	
 - [insightface](https://github.com/deepinsight/insightface)	
 
 ## 3 强化学习
