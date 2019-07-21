@@ -16,6 +16,7 @@
 	- [2.2 计算机视觉基础](https://github.com/DenseAI/awesome-deep-learning#22-计算机视觉基础)
 	- [2.3 目标检测框架](https://github.com/DenseAI/awesome-deep-learning#23-目标检测框架)
 	- [2.4 代码详解](https://github.com/DenseAI/awesome-deep-learning#24-代码详解)
+	- [2.5 人脸识别](https://github.com/DenseAI/awesome-deep-learning#25-人脸识别)
 - [3 强化学习](https://github.com/DenseAI/awesome-deep-learning#3-强化学习)	
 	- [3.1 基础知识](https://github.com/DenseAI/awesome-deep-learning#31-基础知识)
 	- [3.2 强化学习基础](https://github.com/DenseAI/awesome-deep-learning#32-强化学习基础)
