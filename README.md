@@ -161,6 +161,27 @@
 - [格灵深瞳：人脸识别最新进展以及工业级大规模人脸识别实践探讨](https://blog.csdn.net/guleileo/article/details/80863579)	
 - [DeepID+DeepID2+DeepID3人脸识别算法总结](https://blog.csdn.net/weixin_42546496/article/details/88537882)	
 - [insightface](https://github.com/deepinsight/insightface)	
+#### 2.5 人脸识别
+- [人脸识别系列（一）:DeepFace ](https://blog.csdn.net/Fire_Light_/article/details/79558759)
+- [人脸识别系列（二）：DeepID1 ](https://blog.csdn.net/Fire_Light_/article/details/79559312)
+- [人脸识别系列（三）：DeepID2 ](https://blog.csdn.net/Fire_Light_/article/details/79559051)
+- [人脸识别系列（四）：Webface系列1（CASIA-WebFace）](https://blog.csdn.net/Fire_Light_/article/details/79588429)
+- [人脸识别系列（五）：face++ ](https://blog.csdn.net/Fire_Light_/article/details/79590811)
+- [人脸识别系列（六）：FaceNet ](https://blog.csdn.net/Fire_Light_/article/details/79592804)
+- [人脸识别系列(七)：百度的人脸识别 ](https://blog.csdn.net/Fire_Light_/article/details/79589926)
+- [人脸识别系列（八）：VGGFace ](https://blog.csdn.net/Fire_Light_/article/details/79593778)
+- [人脸识别系列（九）：FR+FCN ](https://blog.csdn.net/Fire_Light_/article/details/79594590)
+- [人脸识别系列（十）：Webface系列2 ](https://blog.csdn.net/Fire_Light_/article/details/79595687)
+- [人脸识别系列（十一）：Webface系列3](https://blog.csdn.net/Fire_Light_/article/details/79596024)
+- [人脸识别系列（十二）：Center Loss ](https://blog.csdn.net/Fire_Light_/article/details/79598497)
+- [人脸识别系列（十三）：SphereFace ](https://blog.csdn.net/Fire_Light_/article/details/79599020)
+- [人脸识别系列（十四）：NormFace ](https://blog.csdn.net/Fire_Light_/article/details/79601378)
+- [人脸识别系列（十五）：COCO Loss ](https://blog.csdn.net/Fire_Light_/article/details/79602134)
+- [人脸识别系列（十六）：AMSoftmax ](https://blog.csdn.net/Fire_Light_/article/details/79602310)
+- [人脸识别系列（十七）：ArcFace/Insight Face ](https://blog.csdn.net/Fire_Light_/article/details/79602705)
+- [人脸识别系列（十八）：MobileFaceNets ](https://blog.csdn.net/Fire_Light_/article/details/80279342)
+
+
 
 ## 3 强化学习
 
