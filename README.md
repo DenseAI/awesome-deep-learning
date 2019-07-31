@@ -263,4 +263,10 @@
 
 #### 4.3 生成模型
 - [VAE(Variational Autoencoder)的原理](https://www.cnblogs.com/huangshiyu13/p/6209016.html)
+- [变分自编码器（一）：原来是这么一回事 ](https://spaces.ac.cn/archives/5253)
+- [变分自编码器（二）：从贝叶斯观点出发 ](https://spaces.ac.cn/archives/5343)
+- [变分自编码器（三）：这样做为什么能成？ ](https://spaces.ac.cn/archives/5383)
+- [变分自编码器（四）：一步到位的聚类方案 ](https://spaces.ac.cn/archives/5887)
+- [VAE(Variational Autoencoder)的原理](https://www.cnblogs.com/huangshiyu13/p/6209016.html)
+
 - [VQ-VAE的简明介绍：量子化自编码器](https://spaces.ac.cn/archives/6760/comment-page-1?replyTo=11553)
