@@ -260,6 +260,6 @@
 - [Pix2Pix](https://github.com/eriklindernoren/Keras-GAN#pix2pix)
 - [InfoGAN](https://github.com/eriklindernoren/Keras-GAN#infogan)
 
-#### 4.3 生成深度学习
+#### 4.3 生成模型
 - [VAE(Variational Autoencoder)的原理](https://www.cnblogs.com/huangshiyu13/p/6209016.html)
 - [VQ-VAE的简明介绍：量子化自编码器](https://spaces.ac.cn/archives/6760/comment-page-1?replyTo=11553)
