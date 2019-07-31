@@ -25,6 +25,7 @@
 - [4 生成对抗网络（GAN）](https://github.com/DenseAI/awesome-deep-learning#4-生成对抗网络gan)	
 	- [4.1 综述](https://github.com/DenseAI/awesome-deep-learning#41-综述)
 	- [4.2 各种类型的GAN](https://github.com/DenseAI/awesome-deep-learning#42-各种类型的gan)
+	- [4.3 生成模型](https://github.com/DenseAI/awesome-deep-learning#43-生成模型)
 	
 ## 1 深度学习基础知识 
 
