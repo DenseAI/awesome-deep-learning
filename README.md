@@ -279,4 +279,7 @@
 - [word2vec原理(一) CBOW与Skip-Gram模型基础](https://www.cnblogs.com/pinard/p/7160330.html)
 - [word2vec原理(二) 基于Hierarchical Softmax的模型](https://www.cnblogs.com/pinard/p/7243513.html)
 - [word2vec原理(三) 基于Negative Sampling的模型](https://www.cnblogs.com/pinard/p/7249903.html)
+- [NLP︱高级词向量表达（二）——FastText（简述、学习笔记）](https://blog.csdn.net/sinat_26917383/article/details/54850933)
+	- [facebookresearch/fastText ](https://github.com/facebookresearch/fastText)
+	- [ivanhk/fastText_java ](https://github.com/ivanhk/fastText_java)
 
