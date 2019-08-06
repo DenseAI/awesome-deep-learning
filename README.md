@@ -26,6 +26,8 @@
 	- [4.1 综述](https://github.com/DenseAI/awesome-deep-learning#41-综述)
 	- [4.2 各种类型的GAN](https://github.com/DenseAI/awesome-deep-learning#42-各种类型的gan)
 	- [4.3 生成模型](https://github.com/DenseAI/awesome-deep-learning#43-生成模型)
+- [5 自然语言处理(NLP)](https://github.com/DenseAI/awesome-deep-learning#5-自然语言处理nlp)
+	- [5.1 词向量（Word2vec）](https://github.com/DenseAI/awesome-deep-learning#51-词向量word2vec)
 	
 ## 1 深度学习基础知识 
 
@@ -273,7 +275,7 @@
 
 ## 5 自然语言处理（NLP）
 
-## 5.1 词向量（Word2vec）
+#### 5.1 词向量（Word2vec）
 - [word2vec原理(一) CBOW与Skip-Gram模型基础](https://www.cnblogs.com/pinard/p/7160330.html)
 - [word2vec原理(二) 基于Hierarchical Softmax的模型](https://www.cnblogs.com/pinard/p/7243513.html)
 - [word2vec原理(三) 基于Negative Sampling的模型](https://www.cnblogs.com/pinard/p/7249903.html)
