@@ -282,4 +282,6 @@
 - [NLP︱高级词向量表达（二）——FastText（简述、学习笔记）](https://blog.csdn.net/sinat_26917383/article/details/54850933)
 	- [facebookresearch/fastText ](https://github.com/facebookresearch/fastText)
 	- [ivanhk/fastText_java ](https://github.com/ivanhk/fastText_java)
-
+- [fastText入门](https://blog.csdn.net/AckClinkz/article/details/81907555)
+- [fastText(二)：微博短文本下fastText的应用（一）](https://blog.csdn.net/AckClinkz/article/details/81907695)
+- [fastText(三)：微博短文本下fastText的应用（二）](https://blog.csdn.net/AckClinkz/article/details/81907903)
