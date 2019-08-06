@@ -28,7 +28,7 @@
 	- [4.3 生成模型](https://github.com/DenseAI/awesome-deep-learning#43-生成模型)
 - [5 自然语言处理(NLP)](https://github.com/DenseAI/awesome-deep-learning#5-自然语言处理nlp)
 	- [5.1 词向量（Word2vec）](https://github.com/DenseAI/awesome-deep-learning#51-词向量word2vec)
-	- [5.2 注意力机制（Attention Mechanism）](https://github.com/DenseAI/awesome-deep-learning#51-词向量word2vec)
+	- [5.2 注意力机制（Attention Mechanism）](https://github.com/DenseAI/awesome-deep-learning#52-注意力机制attention-mechanism)
 	
 ## 1 深度学习基础知识 
 
