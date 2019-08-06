@@ -28,6 +28,7 @@
 	- [4.3 生成模型](https://github.com/DenseAI/awesome-deep-learning#43-生成模型)
 - [5 自然语言处理(NLP)](https://github.com/DenseAI/awesome-deep-learning#5-自然语言处理nlp)
 	- [5.1 词向量（Word2vec）](https://github.com/DenseAI/awesome-deep-learning#51-词向量word2vec)
+	- [5.2 注意力机制（Attention Mechanism）](https://github.com/DenseAI/awesome-deep-learning#51-词向量word2vec)
 	
 ## 1 深度学习基础知识 
 
@@ -285,3 +286,7 @@
 - [fastText入门](https://blog.csdn.net/AckClinkz/article/details/81907555)
 - [fastText(二)：微博短文本下fastText的应用（一）](https://blog.csdn.net/AckClinkz/article/details/81907695)
 - [fastText(三)：微博短文本下fastText的应用（二）](https://blog.csdn.net/AckClinkz/article/details/81907903)
+#### 5.2 注意力机制（Attention Mechanism）
+- [《Attention is All You Need》浅读（简介+代码） ](https://kexue.fm/archives/4765)
+- [为节约而生：从标准Attention到稀疏Attention](https://kexue.fm/archives/6853)
+- [BERT大火却不懂Transformer？读这一篇就够了](https://baijiahao.baidu.com/s?id=1622064575970777188&wfr=spider&for=pc)
