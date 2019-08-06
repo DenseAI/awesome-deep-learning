@@ -270,3 +270,11 @@
 - [VAE(Variational Autoencoder)的原理](https://www.cnblogs.com/huangshiyu13/p/6209016.html)
 
 - [VQ-VAE的简明介绍：量子化自编码器](https://spaces.ac.cn/archives/6760/comment-page-1?replyTo=11553)
+
+## 5 自然语言处理（NLP）
+
+## 5.1 词向量（Word2vec）
+- [word2vec原理(一) CBOW与Skip-Gram模型基础](https://www.cnblogs.com/pinard/p/7160330.html)
+- [word2vec原理(二) 基于Hierarchical Softmax的模型](https://www.cnblogs.com/pinard/p/7243513.html)
+- [word2vec原理(三) 基于Negative Sampling的模型](https://www.cnblogs.com/pinard/p/7249903.html)
+
