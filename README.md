@@ -166,6 +166,7 @@
 - [格灵深瞳：人脸识别最新进展以及工业级大规模人脸识别实践探讨](https://blog.csdn.net/guleileo/article/details/80863579)	
 - [DeepID+DeepID2+DeepID3人脸识别算法总结](https://blog.csdn.net/weixin_42546496/article/details/88537882)	
 - [insightface](https://github.com/deepinsight/insightface)	
+- [triplet-loss-mnist](https://github.com/SpikeKing/triplet-loss-mnist)	
 #### 2.5 人脸识别
 - [人脸识别系列（一）:DeepFace ](https://blog.csdn.net/Fire_Light_/article/details/79558759)
 - [人脸识别系列（二）：DeepID1 ](https://blog.csdn.net/Fire_Light_/article/details/79559312)
