@@ -167,6 +167,10 @@
 - [DeepID+DeepID2+DeepID3人脸识别算法总结](https://blog.csdn.net/weixin_42546496/article/details/88537882)	
 - [insightface](https://github.com/deepinsight/insightface)	
 - [triplet-loss-mnist](https://github.com/SpikeKing/triplet-loss-mnist)	
+- [triplet_recommendations_keras ](https://github.com/maciejkula/triplet_recommendations_keras)
+- [keras-arcface  ](https://github.com/4uiiurz1/keras-arcface)	
+
+	
 #### 2.5 人脸识别
 - [人脸识别系列（一）:DeepFace ](https://blog.csdn.net/Fire_Light_/article/details/79558759)
 - [人脸识别系列（二）：DeepID1 ](https://blog.csdn.net/Fire_Light_/article/details/79559312)
