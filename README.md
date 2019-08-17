@@ -190,8 +190,8 @@
 - [人脸识别系列（十六）：AMSoftmax ](https://blog.csdn.net/Fire_Light_/article/details/79602310)
 - [人脸识别系列（十七）：ArcFace/Insight Face ](https://blog.csdn.net/Fire_Light_/article/details/79602705)
 - [人脸识别系列（十八）：MobileFaceNets ](https://blog.csdn.net/Fire_Light_/article/details/80279342)
-
-
+- [SphereFace算法详解](https://blog.csdn.net/u014380165/article/details/76946380)
+- [损失函数改进之Large-Margin Softmax Loss](https://blog.csdn.net/u014380165/article/details/76864572)
 
 ## 3 强化学习
 
