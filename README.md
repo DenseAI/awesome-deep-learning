@@ -169,7 +169,8 @@
 - [triplet-loss-mnist](https://github.com/SpikeKing/triplet-loss-mnist)	
 - [triplet_recommendations_keras ](https://github.com/maciejkula/triplet_recommendations_keras)
 - [keras-arcface  ](https://github.com/4uiiurz1/keras-arcface)	
-- [MNIST-center-loss ](https://github.com/handongfeng/MNIST-center-loss)	
+- [MNIST-center-loss ](https://github.com/handongfeng/MNIST-center-loss)
+- [wide_resnets_keras ](https://github.com/asmith26/wide_resnets_keras)	
 	
 #### 2.5 人脸识别
 - [人脸识别系列（一）:DeepFace ](https://blog.csdn.net/Fire_Light_/article/details/79558759)
