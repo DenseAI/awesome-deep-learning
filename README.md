@@ -29,6 +29,15 @@
 - [5 自然语言处理(NLP)](https://github.com/DenseAI/awesome-deep-learning#5-自然语言处理nlp)
 	- [5.1 词向量（Word2vec）](https://github.com/DenseAI/awesome-deep-learning#51-词向量word2vec)
 	- [5.2 注意力机制（Attention Mechanism）](https://github.com/DenseAI/awesome-deep-learning#52-注意力机制attention-mechanism)
+
+## 0 更新 Update
+
+#### 0.1 Causal Discovery
+- [Causal Discovery with Reinforcement Learning](https://openreview.net/forum?id=S1g2skStPB) ShengyuZhu, IgnavierNg, ZhitangChen.
+- [A Graph Autoencoder Approach to Causal Structure Learning](https://arxiv.org/abs/1911.07420) Ignavier Ng, Shengyu Zhu, Zhitang Chen, Zhuangyan Fang
+
+    ##### 0.1.1 Software
+    - [Trustworthy AI](https://github.com/huawei-noah/trustworthyAI) 
 	
 ## 1 深度学习基础知识 
 
